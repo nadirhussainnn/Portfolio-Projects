@@ -1,0 +1,50 @@
+z123
+Zee
+12255465
+dsd
+nawabshah
+islamabad
+1425
+2208.75
+Mon Dec 02 16:22:35 2019
+;
+nadir786
+NADIR
+03023661424
+nadir@g
+quetta
+karachi
+690
+1069.5
+Mon Dec 02 16:58:15 2019
+;
+s123
+Sajid
+03333
+sajid@
+rohri
+nawabshah
+192
+297.6
+Mon Dec 02 17:05:09 2019
+;
+s123
+Sajid
+03333
+sajid@
+islamabad
+quetta
+1024
+1587.2
+Mon Dec 02 23:32:12 2019
+;
+2222
+Zakir
+032145698745
+zaki@gmail.com
+karachi
+islamabad
+1685
+2611.75
+Thu Aug 06 08:02:03 2020
+;

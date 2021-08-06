@@ -1,0 +1,15 @@
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\bin\Debug\ChatApp.exe.config
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\bin\Debug\ChatApp.exe
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\bin\Debug\ChatApp.pdb
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.Form1.resources
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.exe
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.pdb
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\bin\Debug\Guna.UI2.dll
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.WhatsAppContactView.resources
+F:\5th Semester\Visual Programming\Projects\Notifications\ChatApp\obj\Debug\ChatApp.MoreOptionsView.resources
